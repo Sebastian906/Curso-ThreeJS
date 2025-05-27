@@ -15,3 +15,7 @@ Enfásis en los 3 componentes principales
 # Eje X (X-Axis): De derecha a izquierda y vice versa.
 # Eje Y (Y-Axis): De arriba a abajo y vice versa.
 # Eje Z (Z-Axis): Se mueve hacia adelante y hacia atrás.
+
+# Centro del cubo: Coordenadas (0, 0, 0)
+
+Donde el cubo va a estar por defecto
