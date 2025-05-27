@@ -1,0 +1,19 @@
+body {
+    width: 100dvw;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    user-select: none;
+    color: black;
+}
+
+.world {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.title {
+    position: relative;
+    z-index: 1;
+}
